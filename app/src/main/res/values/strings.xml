@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Learn Languages</string>
+    <string name="Numbers">Numbers</string>
+    <string name="family">Family Members</string>
+    <string name="phrases">Phrases</string>
+    <string name="colors">Colors</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
